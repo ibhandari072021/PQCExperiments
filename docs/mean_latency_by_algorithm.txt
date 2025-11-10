@@ -1,0 +1,4 @@
+algorithm	latency_ms
+Dilithium	26.6
+Kyber	16.6
+SPHINCS	52.8

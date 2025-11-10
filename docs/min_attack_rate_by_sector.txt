@@ -1,0 +1,13 @@
+sector	attack_success_rate
+Blockchain	0.012
+CloudComputing	0.031
+Defense	0.008
+Education	0.0042
+Finance	0.01
+Government	0.0025
+Healthcare	0.003
+IoT	0.052
+LongTermArchival	0.0018
+ResearchInstitutes	0.0019
+SmartGrid	0.046
+Telecommunications	0.041
