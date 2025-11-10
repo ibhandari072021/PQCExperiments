@@ -1,0 +1,21 @@
+# Byte-compiled / cache / virtual env files
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Log and temp files
+*.log
+*.tmp
+*.bak
+
+
+# Secrets, env files
+*.env
+*.secret
+*.key
+
+# Docker
+*.pid
+*.pid.lock
